@@ -51,7 +51,7 @@ Do the wiring with the board unplugged.
    **esp32 by Espressif Systems**.
 
 **B. Install libraries** (Tools → Manage Libraries)
-- **Blynk** by Volodymyr Shymanskyy
+- **Blynk** by Blynk
 - **DHT sensor library** by Adafruit (accept the prompt to also install
   **Adafruit Unified Sensor**)
 

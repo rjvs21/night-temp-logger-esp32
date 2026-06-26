@@ -20,7 +20,7 @@ live from the Blynk app.
 - Arduino IDE 2.x
 - A free Blynk account (blynk.cloud)
 - A Google account (only needed if you want Google Sheets logging)
-- A 2.4GHz WiFi network (ESP32 does not support 5GHz)
+- A WiFi network to connect ESP32 to
 
 ---
 
